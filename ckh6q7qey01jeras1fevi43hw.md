@@ -45,7 +45,7 @@ CSS is difficult, but Jhey makes it look oh-so easy! Posting lots of his own cre
 ![Screen Shot 2020-11-06 at 1.19.11 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1604690360355/4j6IYe-9t.png)
 
 
-#### #6 -  [Kass](https://twitter.com/jh3yy) 
+#### #6 -  [Kass](https://twitter.com/KassandraSanch) 
 
 Get inspired by the CSS art that Kass creates! And be sure to check her out on CodePen, too!
 
