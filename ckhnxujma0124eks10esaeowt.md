@@ -16,7 +16,9 @@ Tailwind 2.0 introduces a brand-new color palette packed with 220 colors, includ
 
 ### Dark Mode
 
-That's right. Tailwind now officially supports dark mode. And it looks extremely easy to set up! UPDATE: I've just published an article showing you how to use the new features to get dark mode set up in your own project! Check it out  [HERE!](https://blog.braydoncoyer.dev/how-to-implement-dark-mode-with-tailwind-v20)  
+That's right. Tailwind now officially supports dark mode. And it looks extremely easy to set up! 
+
+**UPDATE:** I've just published an article showing you how to use the new features to get dark mode set up in your own project! Check it out  [HERE!](https://blog.braydoncoyer.dev/how-to-implement-dark-mode-with-tailwind-v20)  
 
 
 ![Screen Shot 2020-11-18 at 3.17.58 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1605734286106/C0crC4tXp.png)
