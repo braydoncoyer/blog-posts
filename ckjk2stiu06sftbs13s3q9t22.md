@@ -1,4 +1,4 @@
-## The <progress> HTML Tag
+## The progress HTML Tag
 
 Welcome to the first article in the  [Uncommon HTML Tags](https://hashnode.com/series/uncommon-html-tags-ckjiqctar042xzgs1bei2e9a3)  series! 
 With each article in this series, I will introduce a widely unknown HTML tag, discuss compatibility across browsers and cover some real-world use cases with the element. 
