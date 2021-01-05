@@ -1,0 +1,59 @@
+## The <progress> HTML Tag
+
+Welcome to the first article in the  [Uncommon HTML Tags](https://hashnode.com/series/uncommon-html-tags-ckjiqctar042xzgs1bei2e9a3)  series! 
+With each article in this series, I will introduce a widely unknown HTML tag, discuss compatibility across browsers and cover some real-world use cases with the element. 
+
+My hope is that each article broadens your understanding of HTML and helps you discover new tags.
+
+### The < progress > Tag
+
+The `<progress></progress>` tag will create a progress bar and allow you to visualize the completion of a task. This could be handy for showing the progress completion of a multi-page feedback survey, for example! 
+
+Let's take a look at how it's used!
+
+```
+<label for="progress">Article Progress:</label>
+
+<progress id="progress" max="100" value="50"> 50% </progress>
+
+```
+
+![Screen Shot 2021-01-04 at 9.55.45 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1609775753781/mburlbLBM.png)
+
+
+As seen in the example above, there are two attributes you can use on the element. 
+
+1. `max` - this attribute, if used, is a floating point number and must have a value greater than `0`. 
+2. `value` - this optional attribute is used to determine the completion of a task and must be a floating point number between `0` and the number set in the `max` attribute. If the `value` attribute is omitted, the progress bar is set to an indeterminate state. 
+
+Here is an example of an indeterminate progress bar:
+
+```
+<label for="progress">Article Progress:</label>
+
+<progress id="progress" max="100"></progress>
+
+```
+
+![Indeterminate Progress Bar](https://media.giphy.com/media/AtInr1byEBtnARfLmT/giphy.gif)
+
+
+If you want to play around with the tag, feel free to fork the pen below!
+
+<iframe height="465" style="width: 100%;" scrolling="no" title="&lt;progress&gt; HTML Tag" src="https://codepen.io/braydoncoyer/embed/mdrLdRZ?height=265&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/braydoncoyer/pen/mdrLdRZ'>&lt;progress&gt; HTML Tag</a> by Braydon Coyer
+  (<a href='https://codepen.io/braydoncoyer'>@braydoncoyer</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+### Compatibility
+
+The `<progress></progress>` tag is part of the HTML5 Standard and is supported on all major web browsers. No need to worry about compatibility issues! 
+
+
+![Screen Shot 2021-01-04 at 9.53.29 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1609775615556/lW9E7cNN3.png)
+
+### Conclusion
+
+Thanks for reading! Have you ever used the `<progress></progress>` tag in a project? Let me know in the comments below!
+
+If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , subscribe to my newsletter and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
