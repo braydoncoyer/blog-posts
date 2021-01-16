@@ -46,4 +46,4 @@ These are my goals. No matter what 2021 is like, I should be able to make progre
 
 What do you hope 2021 will look like for you? Feel free to share your goals in the comments below!
 
-Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , subscribe to my newsletter and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
