@@ -407,7 +407,7 @@ You can clone the repo  [HERE!](https://github.com/braydoncoyer/tailwindcss-v2-d
 Here's a preview of what you get with the template:
 ![Tailwind Dark Mode Template](https://media.giphy.com/media/hEinaxjPrhQGffoW3z/giphy.gif)
 
-If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , subscribe to my newsletter and make sure to follow me on  [Twitter](https://twitter.com/BraydonCoyer)!
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
 
 
 
