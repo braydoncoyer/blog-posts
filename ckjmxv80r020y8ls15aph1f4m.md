@@ -33,7 +33,7 @@ After the site is built, near the end of the logs, the results of the audit will
 
 There we go! With just a few clicks, we integrated Lighthouse in our Netlify-powered site. Great job! 
 
-If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , subscribe to my newsletter and make sure to follow me on  [Twitter](https://twitter.com/BraydonCoyer)!
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
 
 
 
