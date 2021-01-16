@@ -137,6 +137,6 @@ My hope is that these 8 tips help you identify small changes that you can make a
 
 For more tips and tricks like these, make sure to check out  [RefactoringUI!](https://refactoringui.com/book/)
 
-If you liked this article and want more content like this, read some of my  [other articles](https://blog.braydoncoyer.dev/) , subscribe to my newsletter and make sure to follow me on  [Twitter](https://twitter.com/BraydonCoyer)!
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
 
 
