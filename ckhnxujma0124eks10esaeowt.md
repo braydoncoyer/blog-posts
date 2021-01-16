@@ -57,4 +57,4 @@ I can't wait to start using Tailwind 2.0!
 
 What do you think? Leave your thoughts in the comments below!
 
-If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , subscribe to my newsletter and make sure to follow me on  [Twitter](https://twitter.com/BraydonCoyer)!
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
