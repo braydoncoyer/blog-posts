@@ -51,7 +51,7 @@ Now we can write unit tests that are testing the `AppComponent` in isolation.
 
 Great job! Now you know how to mock components and services! In the next article we'll begin to actually write tests in our Angular project! 
 
-If you liked this article and want more content like this, read some of my  [other articles](https://blog.braydoncoyer.dev/), subscribe to my newsletter and make sure to follow me on  [Twitter](https://twitter.com/BraydonCoyer) !
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
 
 
 
