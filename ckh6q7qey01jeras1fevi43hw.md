@@ -93,7 +93,7 @@ Samantha posts some extremely creative code snippets and tutorials. If you aren'
 
 That wraps up my list! Are there any accounts that you follow that you want to share? Make sure you post a comment below and let me know! 
 
-If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , subscribe to my newsletter and make sure to follow me on  [Twitter](https://twitter.com/BraydonCoyer)!
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
 
 
 
