@@ -57,3 +57,10 @@ The `<progress></progress>` tag is part of the HTML5 Standard and is supported o
 Thanks for reading! Have you ever used the `<progress></progress>` tag in a project? Let me know in the comments below!
 
 If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
+
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/braydoncoyer?as_embed=true"
+></iframe>
