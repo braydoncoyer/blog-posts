@@ -121,7 +121,7 @@ For now, I put the following under the blog post section:
 
 Along with my most recent blog posts, I wanted to shift the spotlight to a few of my other repositories and display some statistics. To accomplish this, I used Anurag Hazra‘s *[GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) -* The content you retrieve from his API can be wrapped in an `<img>` tag and styled in various ways. The documentation is easy to follow; I encourage you to check it out!
 
-```markdown
+```html
 <!-- Pinned Repositories -- >
 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
