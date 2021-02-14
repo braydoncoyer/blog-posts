@@ -1,3 +1,47 @@
 ## Code on Your iPad Pro
 
-undefined
+When Apple announced the iPad Pro years back, I always thought it would be cool to be able to use the 12.9" model and use that as my on-the-go device for coding. 
+
+Unfortunately, there weren't any IDEs available on the App Store, and not being able to preview/run the code was a deal-breaker. 
+
+When Apple broke away from iOS on the iPad and introduced iPadOS, Safari got a revamp and was classified as a 'desktop-class browsing' experience. And it's gotten even better in the last year.
+
+I'm a big CodePen advocate and [use it a lot for my leisure-coding to create snippets or CSS art](https://codepen.io/braydoncoyer). 
+
+This got me thinking. Now that Safari functions more like Safari on a Mac, could I use my iPad to write HTML, CSS & JavaScript using CodePen?
+
+Yep! And it's pretty seamless and even a better experience if you have the iPad Pro Magic Keyboard!
+
+Simply navigate to https://codepen.io/ and create a new pen! 
+
+
+> NOTE: There are ways to use VSCode on your iPad, but requires some extra configuration. If you're interested in learning more, check out  [this great article!](https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a) 
+
+
+### Different Views & Orientations
+
+CodePen allows you to view the code and preview windows in different orientations.
+Personally, I prefer having my editor windows lined up on the top, and my large preview window on the bottom. 
+
+
+![Screen Shot 2020-12-24 at 12.31.05 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1608834681194/1F0GbMPqk.png)
+
+Because the iPad Pro has limited screen real-estate, figure out which orientation fits your workflow by clicking on the 'Change View' button in the top-right of the screen.  
+
+
+
+### Conclusion
+
+If you have an iPad Pro and want to write HTML, CSS and JavaScript, utilizing CodePen in Safari may be a solution! 
+
+While it's not a native IDE designed specifically for the iPad, this isn't a bad workaround until an IDE becomes available on the App Store. 
+
+Do you have an iPad and code with it? Let me know in the comments below!
+
+Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://blog.braydoncoyer.dev/), subscribe to my newsletter and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/braydoncoyer?as_embed=true"
+></iframe>
