@@ -286,12 +286,5 @@ Happy Halloween!
   (<a href='https://codepen.io/braydoncoyer'>@braydoncoyer</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-<br>
-
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/braydoncoyer?as_embed=true"
-></iframe>
 
 
