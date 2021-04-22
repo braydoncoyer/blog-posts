@@ -214,12 +214,5 @@ And there we go! CSS Art is always so much fun to make and it's a great way to c
 
 Thanks for reading! If you liked this article and want more content like this, read some of my [other articles](https://braydoncoyer.dev/blog) , [subscribe to my newsletter](https://braydoncoyer.dev/newsletter/) and make sure to follow me on [Twitter](https://twitter.com/BraydonCoyer)!
 
-<br>
-
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/braydoncoyer?as_embed=true"
-></iframe>
 
 
