@@ -77,11 +77,6 @@ Thanks for reading! If you liked this article and want more content like this, r
 I love to read, write, create new things and help others learn front-end development!
 If you'd like to receive emails about my new articles, sign up below! Quick and easy! Unsubscribe at any time!
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/braydoncoyer?as_embed=true"
-></iframe>
 
 *Cover photo by Roberto Nickson / Unsplash*
 
