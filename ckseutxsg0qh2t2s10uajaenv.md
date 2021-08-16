@@ -78,3 +78,5 @@ The colors can be customized [even further](https://github.com/tailwindlabs/tail
 The TailwindCSS Typography plugin paints blocks of text with beautiful styles thanks to an easy-to-use solution crafted by professional designers. 
 
 For a full list of official TailwindCSS plugins, check out the [Tailwind documentation website](https://tailwindcss.com/docs).
+
+[This article was originally published here](https://www.bundleapps.io/blog/how-to-use-the-tailwindcss-typography-plugin)
