@@ -170,7 +170,7 @@ https://res.cloudinary.com/braydoncoyer/image/upload/w_1200,h_630,c_fill,f_auto/
 
 The URL is a bit cumbersome, but let me break it down from top to bottom:
 
-- `[https://res.cloudinary.com/braydoncoyer/](https://res.cloudinary.com/braydoncoyer/)` - a base URL containing my Cloudinary account name.
+- `https://res.cloudinary.com/braydoncoyer/` - a base URL containing my Cloudinary account name.
 - `image/upload` - the asset type.
 - `w_1200,h_630` - the width and height for the entire image.
 - `c_fill` - crop mode.
@@ -188,7 +188,7 @@ The URL is a bit cumbersome, but let me break it down from top to bottom:
 
 ### Configure a function to generate the Cloudinary URL
 
-Manually creating a URL like this would be extremely tedious and timeconsuming. To make the process easier, let's create a function to build the Cloudinary URL and return it to us. 
+Manually creating a URL like this would be extremely tedious and time-consuming. To make the process easier, let's create a function to build the Cloudinary URL and return it to us. 
 
 I've created a file called `generateSocialImage` in my `lib` directory.
 
